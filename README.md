@@ -12,7 +12,7 @@ Just download the compressed "zip" file, unpack, launch the executable...et voil
 
 ## Releases:
 - v1.6.4 - 2017-05-13
-  - [Windows (portable version)](https://github.com/maurobussini/restful-stress/raw/master/dist/1.6.4/restful-stress.1.6.4.win.exe)
+  - [Windows (installer version)](https://github.com/maurobussini/restful-stress/raw/master/dist/1.6.4/restful-stress.1.6.4.win.exe)
   - [Linux (portable version)](https://github.com/maurobussini/restful-stress/raw/master/dist/1.6.4/restful-stress.1.6.4.linux.zip)
 - v1.6.3 - 2017-05-09
   - [Windows (portable version)](https://github.com/maurobussini/restful-stress/raw/master/dist/1.6.3/restful-stress.1.6.3.win.portable.zip)
